@@ -10,5 +10,5 @@
 - Grant Eads [@Grant-Eads](https://github.com/Grant-Eads)
 - Nathan Turner [@Nathan-2018](https://gitHub.com/Nathan-2018)
 - Tyler Middendorf [@Tyler-Middendorf](https://github.com/Tyler-Middendorf)
-# Mentor
+### Mentor
 - Matt Price [@sowaky](https://github.com/SoWaky)
