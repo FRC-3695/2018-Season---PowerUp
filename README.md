@@ -1,4 +1,4 @@
-![logo](https://github.com/FRC-3695/2023-Season---Crescendo/blob/master/Logo.jpeg?raw=true)
+![logo](https://github.com/FRC-3695/2018-Season---PowerUp/blob/master/Logo.png?raw=true)
 ## Code Health
 [![CodeFactor](https://www.codefactor.io/repository/github/frc-3695/2018-season---powerup/badge)](https://www.codefactor.io/repository/github/frc-3695/2018-season---powerup)
 ## Season Notes
